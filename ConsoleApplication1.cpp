@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello hui.edut vs lagaet!\n";
+    std::cout << "Hello hui.edut porn!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
